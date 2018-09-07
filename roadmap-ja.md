@@ -11,7 +11,8 @@
 
 ## Required for any path
 
-- **Git - Version Control** git入門(https://dotinstall.com/lessons/basic_git)
+- **Git - Version Control**
+  - [git入門](https://dotinstall.com/lessons/basic_git)
 - **SSH**
 - **HTTP/HTTPS and APIs**
 - **Basic Terminal Usage**
